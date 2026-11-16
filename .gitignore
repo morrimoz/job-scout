@@ -1,0 +1,12 @@
+*.pdf
+*.doc
+*.docx
+.env*
+credentials*
+secrets*
+
+digests/*.md
+recaps/*.md
+drafts/*.md
+prep/*.md
+applications/*.md
